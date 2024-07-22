@@ -1,1 +1,0 @@
-console.log("for version 2 we need a version 2 file");
